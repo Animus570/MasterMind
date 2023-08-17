@@ -1,0 +1,14 @@
+C:\git\MasterMind\MasterMind\MasterMind\obj\Debug\net7.0\MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\MasterMind\MasterMind\MasterMind\obj\Debug\net7.0\MasterMind.AssemblyInfoInputs.cache
+C:\git\MasterMind\MasterMind\MasterMind\obj\Debug\net7.0\MasterMind.AssemblyInfo.cs
+C:\git\MasterMind\MasterMind\MasterMind\obj\Debug\net7.0\MasterMind.csproj.CoreCompileInputs.cache
+C:\git\MasterMind\MasterMind\MasterMind\bin\Debug\net7.0\MasterMind.exe
+C:\git\MasterMind\MasterMind\MasterMind\bin\Debug\net7.0\MasterMind.deps.json
+C:\git\MasterMind\MasterMind\MasterMind\bin\Debug\net7.0\MasterMind.runtimeconfig.json
+C:\git\MasterMind\MasterMind\MasterMind\bin\Debug\net7.0\MasterMind.dll
+C:\git\MasterMind\MasterMind\MasterMind\bin\Debug\net7.0\MasterMind.pdb
+C:\git\MasterMind\MasterMind\MasterMind\obj\Debug\net7.0\MasterMind.dll
+C:\git\MasterMind\MasterMind\MasterMind\obj\Debug\net7.0\refint\MasterMind.dll
+C:\git\MasterMind\MasterMind\MasterMind\obj\Debug\net7.0\MasterMind.pdb
+C:\git\MasterMind\MasterMind\MasterMind\obj\Debug\net7.0\MasterMind.genruntimeconfig.cache
+C:\git\MasterMind\MasterMind\MasterMind\obj\Debug\net7.0\ref\MasterMind.dll
