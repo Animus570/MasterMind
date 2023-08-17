@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git_2\\MasterMind\\MasterMind\\MasterMind\\MasterMind.csproj": {}
+    "C:\\git\\MasterMind\\MasterMind\\MasterMind\\MasterMind.csproj": {}
   },
   "projects": {
-    "C:\\git_2\\MasterMind\\MasterMind\\MasterMind\\MasterMind.csproj": {
+    "C:\\git\\MasterMind\\MasterMind\\MasterMind\\MasterMind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git_2\\MasterMind\\MasterMind\\MasterMind\\MasterMind.csproj",
+        "projectUniqueName": "C:\\git\\MasterMind\\MasterMind\\MasterMind\\MasterMind.csproj",
         "projectName": "MasterMind",
-        "projectPath": "C:\\git_2\\MasterMind\\MasterMind\\MasterMind\\MasterMind.csproj",
+        "projectPath": "C:\\git\\MasterMind\\MasterMind\\MasterMind\\MasterMind.csproj",
         "packagesPath": "C:\\Users\\barbe\\.nuget\\packages\\",
-        "outputPath": "C:\\git_2\\MasterMind\\MasterMind\\MasterMind\\obj\\",
+        "outputPath": "C:\\git\\MasterMind\\MasterMind\\MasterMind\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

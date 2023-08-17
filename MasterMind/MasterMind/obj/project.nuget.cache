@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EqAW63MN21fLBwbFWuB2qeVSbkeBahQzIQIi2UjUt8nlVIB1sQmiVEgD0S1uzYk6OvGqP5Lp44e43FxZVXmvJg==",
+  "dgSpecHash": "DKvL++cR4kia9cN+w/UGkM1RUVt+7wPIK1qSWuzI3kAHcIScdXmVT5vOP9fbcCt5I55pP5qk16M1E526K2OWTw==",
   "success": true,
-  "projectFilePath": "C:\\git_2\\MasterMind\\MasterMind\\MasterMind\\MasterMind.csproj",
+  "projectFilePath": "C:\\git\\MasterMind\\MasterMind\\MasterMind\\MasterMind.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
