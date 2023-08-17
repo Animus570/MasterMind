@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MasterMind
-build_property.ProjectDir = C:\git_2\MasterMind\MasterMind\MasterMind\
+build_property.ProjectDir = C:\git\MasterMind\MasterMind\MasterMind\

@@ -104,7 +104,6 @@ internal class GameManager : IGameManager
     private void DrawBoard()
     {
         Console.Clear();
-        Console.WriteLine(_gameLogic.ShowHiddenSequence());
         // draw previous attempts should any exist
         if (_previousAttempts.Any()) Console.WriteLine("Failed Attempts");
         foreach (var elem in _previousAttempts)
